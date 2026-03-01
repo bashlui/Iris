@@ -1,0 +1,37 @@
+# Build
+.build/
+DerivedData/
+
+# Xcode
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+
+# Swift Package Manager
+.swiftpm/configuration/package.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+*.swp
+*~
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# Playground / temporary
+*.playground/Contents.swift
+*.timeline
+
+# Optional: keep submission ZIP out of repo if you prefer
+# Iris-submission.zip
