@@ -34,4 +34,4 @@ Built for the **Swift Student Challenge 2026**.
 
 ## License
 
-This project was created for the Swift Student Challenge. Use and modification for learning purposes is welcome.
+This project was created for the Swift Student Challenge.
