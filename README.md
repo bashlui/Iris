@@ -19,14 +19,9 @@ Built for the **Swift Student Challenge 2026**.
 ---
 
 ## Preview
-
-<!-- Add screenshots here. Example:
-![Simulator](docs/simulator.png)
-![Challenges](docs/challenges.png)
-![Encyclopedia](docs/encyclopedia.png)
--->
-
-*Add your app screenshots above.*
+<img width="1194" height="834" alt="Iris1" src="https://github.com/user-attachments/assets/6609445b-0ac0-4747-b8dd-65fb23dffe19" />
+<img width="1194" height="834" alt="Iris2" src="https://github.com/user-attachments/assets/e957cefe-2256-482a-8b6f-2090ba8efdfa" />
+<img width="1194" height="834" alt="Iris3" src="https://github.com/user-attachments/assets/b143e09b-06fd-42c6-b09d-eb007416d372" />
 
 ---
 
